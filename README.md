@@ -16,7 +16,7 @@ The provided dataset includes detailed order records with variables such as:
 - Product details: category, sub-category, name, quantity.
 
 #### Sample data highlights:
-  i. Orders range from small "3units to large 50units.
-  ii. Profit margins vary widely, with some orders showing losses (negative profit).
-  iii. Customer segments include Small Business, Consumer, and Corporate.
-  iv. Product categories include Office Supplies, Technology, and Furniture.
+  1. Orders range from small "3units to large 50units.
+  2. Profit margins vary widely, with some orders showing losses (negative profit).
+  3. Customer segments include Small Business, Consumer, and Corporate.
+  4. Product categories include Office Supplies, Technology, and Furniture.
