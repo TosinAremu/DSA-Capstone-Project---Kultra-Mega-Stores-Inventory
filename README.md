@@ -10,13 +10,13 @@ SQL: Querying the database to extract order details and aggregate results by cus
 
 #### Data Overview
 The provided dataset includes detailed order records with variables such as:
-Order details: Order ID, date, priority, mode of shipment.
-Financials: sales, discounts, unit prices, shipping costs, profits.
-Customer info: name, location (province, region), segment.
-Product details: category, sub-category, name, quantity.
+- Order details: Order ID, date, priority, mode of shipment.
+- Financials: sales, discounts, unit prices, shipping costs, profits.
+- Customer info: name, location (province, region), segment.
+- Product details: category, sub-category, name, quantity.
 
 #### Sample data highlights:
-Orders range from small "3units to large 50units.
-Profit margins vary widely, with some orders showing losses (negative profit).
-Customer segments include Small Business, Consumer, and Corporate.
-Product categories include Office Supplies, Technology, and Furniture.
+  i. Orders range from small "3units to large 50units.
+  ii. Profit margins vary widely, with some orders showing losses (negative profit).
+  iii. Customer segments include Small Business, Consumer, and Corporate.
+  iv. Product categories include Office Supplies, Technology, and Furniture.
