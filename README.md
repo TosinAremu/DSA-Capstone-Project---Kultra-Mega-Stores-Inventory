@@ -16,7 +16,14 @@ The provided dataset includes detailed order records with variables such as:
 - Product details: category, sub-category, name, quantity.
 
 #### Sample data highlights:
-  1. Orders range from small "3units to large 50units.
+  1. Orders range from small "1 unit to large 50 units.
   2. Profit margins vary widely, with some orders showing losses (negative profit).
   3. Customer segments include Small Business, Consumer, and Corporate.
   4. Product categories include Office Supplies, Technology, and Furniture.
+
+#### Key Insights and Analysis
+#### Customer Segmentation & Purchase Patterns
+- Diverse Customer Base: Orders come from varied customer segments — Home office, Small Business, Consumer, and Corporate.
+- Small Businesses: Tend to place smaller, frequent orders e.g Office Supplies, with moderate sales volumes.
+- Large Corporate Clients: Make larger, high-value orders, often in Technology and Furniture categories e.g order with sales over ₦50,000.
+- Implication: Tailoring marketing strategies and loyalty programs for each segment could optimize retention and sales.
