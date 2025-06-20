@@ -22,8 +22,13 @@ The provided dataset includes detailed order records with variables such as:
   4. Product categories include Office Supplies, Technology, and Furniture.
 
 #### Key Insights and Analysis
-#### Customer Segmentation & Purchase Patterns
+#### A. Customer Segmentation & Purchase Patterns
 - Diverse Customer Base: Orders come from varied customer segments — Home office, Small Business, Consumer, and Corporate.
 - Small Businesses: Tend to place smaller, frequent orders e.g Office Supplies, with moderate sales volumes.
 - Large Corporate Clients: Make larger, high-value orders, often in Technology and Furniture categories e.g order with sales over ₦50,000.
 - Implication: Tailoring marketing strategies and loyalty programs for each segment could optimize retention and sales.
+
+#### B. Product Category Performance
+- Technology Products: High-value orders, e.g telephone and communication devices, computer, often with higher profit margins.
+- Furniture: Steady demand; specific sub-categories like tables, chairs show consistent sales.
+- Office Supplies: Most commonly ordered, especially storage and organization items. Margins vary; some orders show negative profits, indicating potential pricing or cost issues.
