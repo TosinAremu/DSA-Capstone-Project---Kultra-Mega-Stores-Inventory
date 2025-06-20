@@ -31,4 +31,4 @@ The provided dataset includes detailed order records with variables such as:
 #### B. Product Category Performance
 - Technology Products: High-value orders, e.g telephone and communication devices, computer, often with higher profit margins.
 - Furniture: Steady demand; specific sub-categories like tables, chairs show consistent sales.
-- Office Supplies: Most commonly ordered, especially storage and organization items. Margins vary; some orders show negative profits, indicating potential pricing or cost issues.
+- Office Supplies: Most commonly ordered, especially storage and organization items. Margins vary; some orders show negative profits, indicating potential pricing or cost issues. e.g rubber bands.
