@@ -32,3 +32,10 @@ The provided dataset includes detailed order records with variables such as:
 - Technology Products: High-value orders, e.g telephone and communication devices, computer, often with higher profit margins.
 - Furniture: Steady demand; specific sub-categories like tables, chairs show consistent sales.
 - Office Supplies: Most commonly ordered, especially storage and organization items. Margins vary; some orders show negative profits, indicating potential pricing or cost issues. e.g rubber bands.
+
+#### C. Sales and Revenue Trends (2009-2012)
+- Temporal Trends: Data suggests increasing sales over the years, with notable spikes in 2011 and 2012.
+- Order Priority & Performance:
+  1. High-priority orders (e.g., "High") tend to be larger and more profitable.
+  2. Orders with "Not Specified" priority show inconsistent performance, indicating potential data quality issues.
+- Order Modes: Delivery truck and regular air are prevalent; express air is used for urgent deliveries.
