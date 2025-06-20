@@ -1,1 +1,1 @@
-# DSA-Capstone-Project---Kultra-Mega-Stores-Inventory
+# DSA-Capstone-Project-Kultra Mega Stores Inventory
