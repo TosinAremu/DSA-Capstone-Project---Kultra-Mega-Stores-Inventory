@@ -5,10 +5,10 @@
 ### Introduction
 Kultra Mega Stores (KMS) is a remarkable retail and wholesale provider of office supplies and furniture, headquartered in Lagos, Nigeria. Its diverse customers are individual consumers, small businesses, and large corporate clients across Nigeria. This report focuses on the Abuja division, leveraging historical order data from 2009 to 2012 to obtain insights that can inform strategic decisions, improve operations, and enhance customer engagement.
 
-#### Tools Used:
+### Tools Used:
 SQL: Querying the database to extract order details and aggregate results by customer, customer segment, product category, product name etc.
 
-#### Data Overview
+### Data Overview
 The provided dataset includes detailed order records with variables such as:
 - Order details: Order ID, date, priority, mode of shipment.
 - Financials: sales, discounts, unit prices, shipping costs, profits.
@@ -21,7 +21,7 @@ The provided dataset includes detailed order records with variables such as:
   3. Customer segments include Small Business, Consumer, and Corporate.
   4. Product categories include Office Supplies, Technology, and Furniture.
 
-#### Key Insights and Analysis
+### Key Insights and Analysis
 #### A. Customer Segmentation & Purchase Patterns
 - Diverse Customer Base: Orders come from varied customer segments — Home office, Small Business, Consumer, and Corporate.
 - Small Businesses: Tend to place smaller, frequent orders e.g Office Supplies, with moderate sales volumes.
@@ -52,3 +52,23 @@ The provided dataset includes detailed order records with variables such as:
   1. Larger orders originate from provinces like Ontario and West.
   2. Absent detailed data on Abuja-specific orders, further geographic analysis is needed.
 - Action Point: Map customer locations to identify regional demand and optimize logistics.
+
+### Recommendations
+- Data Quality Improvement: Address missing or inconsistent data (e.g., "Order Priority") for accurate analysis.
+- Customer Relationship Management: Develop targeted campaigns for high-value and repeat customers.
+- Pricing & Cost Strategies: Review discount policies and shipping costs to improve profit margins.
+- Inventory Optimization: Align stock levels with demand trends, especially for high-demand categories like Office Supplies and Technology.
+- Geographic Expansion: Use regional data to identify underserved areas within Abuja, tailoring marketing efforts accordingly.
+- Technology & Automation: Implement BI tools for real-time sales tracking and predictive analytics.
+
+
+### Conclusions
+The analysis of KMS's order data from 2009-2012 reveals valuable insights into customer behavior, product performance, and profitability. Addressing data gaps and leveraging these insights can support the Abuja division in enhancing sales, improving margins, and delivering better customer service. Strategic focus on high-margin products, customer segmentation, and regional demand will position KMS for sustained growth in Nigeria’s competitive office supplies and furniture market.
+
+### Appendices
+Data Summary Statistics
+
+Total Orders: [Number]
+Total Sales: [Sum]
+Average Order Quantity: [Value]
+Average Profit per Order: [Value]
