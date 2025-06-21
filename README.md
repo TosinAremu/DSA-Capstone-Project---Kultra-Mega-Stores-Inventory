@@ -70,20 +70,37 @@ The provided dataset includes detailed order records with variables such as:
 
 #### F. Bottom Performers
 Who are the bottom Performers?
+|Customer Name |Total Sales|Customer Segment|Product Category
+|--------------|-----------|----------------|-----------------
+|Richardo Emerson|2.24|Corporate|Office Supplies
+|Maria Bertelson|3.63|Corporate|Office Supplies
+|Katrina Bavinger|3.77|Home Office|Office Supplies
+|Andy Reiter|3.42|Corporate|Office Supplies
+|Jeremy Farry|3.96|Small Business|Office Supplies
+|Don Weiss|4.94|Corporate|Office Supplies
+|Benjamin Patterson|3.23|Corporate|Office Supplies
+|Adam Hart|3.41|Corporate|Office Supplies
+|Adam Hart|3.85|Corporate|Office Supplies
+|Ken Dana|3.2|Small Business|Office Supplies
 
-Revenue Growth
+Insights for Management (KMS)
 1.	Upsell & Cross-sell Opportunities
-	•	Offer bundles or discounts on related products in their category.
-	•	E.g., Clay Rozendal buys binders — offer desks or filing cabinets.
+	- Offer bundles or discounts on related products in their category.
+	- E.g Ken Dana buys binders — offer desks or filing cabinets.
 2.	Customer-Specific Promotions
-	•	Provide targeted offers to Small Business and Home Office segments.
-	•	E.g., bulk purchase discounts, loyalty incentives.
+   	- Provide targeted offers to Small Business and Home Office segments.
+	- E.g bulk purchase discounts, loyalty incentives.
 3.	Review Product Mix
-	•	If they’re only buying low-cost items (e.g., binders, storage), suggest higher-value alternatives.
+   	- If they’re only buying low-cost items (e.g binders, storage) suggest higher-value alternatives.
 4.	Improve Marketing Touchpoints
-	•	Engage via email campaigns showcasing popular technology or high-margin products.
+   	- Engage via email campaigns showcasing popular technology or high-margin products.
 5.	Reduce Return-Linked Losses
-	•	Muhammed MacIntyre’s sale had negative profit → consider reviewing return policy or shipping costs.
+   	- Richardo Emerson’s sale had negative profit → consider reviewing return policy or shipping costs.
+  
+#### G. Shipping Mode Performance
+- Delivery Truck: Most economical, but slowest (#51,971.94).
+- Regular Air: Moderate speet and cost (#48,008.19).
+- Express Air: Fastest, but most expensive (#7,850.91).
 
 ### Recommendations
 - Data Quality Improvement: Address missing or inconsistent data "Order Priority" for accurate analysis.
