@@ -97,7 +97,7 @@ Insights for Management (KMS)
 5.	Reduce Return-Linked Losses
    	- Richardo Emerson’s sale had negative profit → consider reviewing return policy or shipping costs.
   
-#### G. Shipping Mode Performance
+#### G. Shipping Mode and Shipping Cost Performance
 - Delivery Truck: Most economical, but slowest (#51,971.94).
 - Regular Air: Moderate speet and cost (#48,008.19).
 - Express Air: Fastest, but most expensive (#7,850.91).
