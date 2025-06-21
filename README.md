@@ -68,6 +68,23 @@ The provided dataset includes detailed order records with variables such as:
   2. Lower orders are from Nunavut and Northwest Territories .
 - Action Point: Map customer locations to identify regional demand and optimize logistics.
 
+#### F. Bottom Performers
+Who are the bottom Performers?
+
+Revenue Growth
+1.	Upsell & Cross-sell Opportunities
+	•	Offer bundles or discounts on related products in their category.
+	•	E.g., Clay Rozendal buys binders — offer desks or filing cabinets.
+2.	Customer-Specific Promotions
+	•	Provide targeted offers to Small Business and Home Office segments.
+	•	E.g., bulk purchase discounts, loyalty incentives.
+3.	Review Product Mix
+	•	If they’re only buying low-cost items (e.g., binders, storage), suggest higher-value alternatives.
+4.	Improve Marketing Touchpoints
+	•	Engage via email campaigns showcasing popular technology or high-margin products.
+5.	Reduce Return-Linked Losses
+	•	Muhammed MacIntyre’s sale had negative profit → consider reviewing return policy or shipping costs.
+
 ### Recommendations
 - Data Quality Improvement: Address missing or inconsistent data "Order Priority" for accurate analysis.
 - Customer Relationship Management: Develop targeted campaigns for high-value and repeat customers.
