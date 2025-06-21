@@ -8,11 +8,11 @@ Kultra Mega Stores (KMS) is a remarkable retail and wholesale provider of office
 ### Tools Used:
 SQL: Querying the database to extract order details and aggregate results by customer, customer segment, product category, product name etc.
 
-#### Data Import and Cleaning
+### Data Import and Cleaning:
 - Imported the inventory data into SQL.
 - Wrote SQL queries to retrieve the relevant sales and order data.
 - Aggregated sales data by product category, province and customer segment. 
-- Example SQL query for the product category had the highest sales?:
+- Example SQL query for the product category had the highest sales:
 ```SQL
 SELECT TOP 1 Product_Category,
     SUM(Sales) AS Total_Sales
