@@ -44,7 +44,7 @@ The provided dataset includes detailed order records with variables such as:
 - Profitability Variance: Some orders, despite high sales, show negative profits, possibly due to high shipping costs or discounts.
 - Key Profit Drivers:
   1. Larger orders with higher unit prices tend to yield better profits.
-  2. Orders with low discounts (e.g., 1%) tend to be more profitable.
+  2. Orders with low discounts 3% tend to be more profitable.
 - Loss-making Orders: Highlight the need for reviewing pricing strategies and cost management.
 
 #### E. Geographic Insights
