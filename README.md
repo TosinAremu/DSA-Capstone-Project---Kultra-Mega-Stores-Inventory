@@ -100,7 +100,17 @@ Insights for Management (KMS)
 #### G. Shipping Mode and Shipping Cost Performance
 - Delivery Truck: Most economical, but slowest (#51,971.94).
 - Regular Air: Moderate speet and cost (#48,008.19).
-- Express Air: Fastest, but most expensive (#7,850.91).
+- Express Air: Fastest, most expensive (#7,850.91).
+
+|Order Priority|Expected Shipping Mode|Justification|
+|--------------|----------------------|-------------|
+|High|Express Air|Needs fast delivery
+|Medium|Regular Air|balanced speed and cost
+|Low|Delivery Truck|Cost-saving
+
+Based on the information above, the company appears to have made an appropriate decision in allocating shipping methods according to order priority. Since the delivery truck is the most economical but slowest option, it is suitable for orders with lower priority where delivery speed is less critical. Conversely, using Express Air, which is the fastest but most expensive, makes sense for high-priority orders that require quick delivery to meet customer expectations or deadlines.
+
+This strategic approach aligns shipping costs with order importance, ensuring that higher-priority orders receive expedited service while lower-priority orders are shipped more economically. Therefore, the company’s shipping cost expenditures seem justified and appropriate based on the order priorities.
 
 ### Recommendations
 - Data Quality Improvement: Address missing or inconsistent data "Order Priority" for accurate analysis.
