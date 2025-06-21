@@ -36,6 +36,6 @@ The provided dataset includes detailed order records with variables such as:
 #### C. Sales and Revenue Trends (2009-2012)
 - Temporal Trends: Data suggests increasing sales over the years, with notable spikes in 2011 and 2012.
 - Order Priority & Performance:
-  1. High-priority orders (e.g., "High") tend to be larger and more profitable.
-  2. Orders with "Not Specified" priority show inconsistent performance, indicating potential data quality issues.
-- Order Modes: Delivery truck and regular air are prevalent; express air is used for urgent deliveries.
+  1. High-priority orders tend to be larger and more profitable.
+  2. Orders with "Critical" priority show inconsistent performance, indicating potential data quality issues.
+- Order Modes: Regular Air and Delivery Truck are prevalent; express air is used for urgent deliveries.
