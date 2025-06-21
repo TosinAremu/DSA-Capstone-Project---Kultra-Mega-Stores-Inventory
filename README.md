@@ -39,3 +39,16 @@ The provided dataset includes detailed order records with variables such as:
   1. High-priority orders tend to be larger and more profitable.
   2. Orders with "Critical" priority show inconsistent performance, indicating potential data quality issues.
 - Order Modes: Regular Air and Delivery Truck are prevalent; express air is used for urgent deliveries.
+
+#### D. Profitability Analysis
+- Profitability Variance: Some orders, despite high sales, show negative profits, possibly due to high shipping costs or discounts.
+- Key Profit Drivers:
+  1. Larger orders with higher unit prices tend to yield better profits.
+  2. Orders with low discounts (e.g., 1%) tend to be more profitable.
+- Loss-making Orders: Highlight the need for reviewing pricing strategies and cost management.
+
+#### E. Geographic Insights
+- Orders are distributed across provinces and regions:
+  1. Larger orders originate from provinces like Manitoba and Nova Scotia.
+  2. Absent detailed data on Abuja-specific orders, further geographic analysis is needed.
+- Action Point: Map customer locations to identify regional demand and optimize logistics.
