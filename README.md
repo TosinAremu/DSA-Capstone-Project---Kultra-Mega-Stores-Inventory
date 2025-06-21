@@ -49,6 +49,6 @@ The provided dataset includes detailed order records with variables such as:
 
 #### E. Geographic Insights
 - Orders are distributed across provinces and regions:
-  1. Larger orders originate from provinces like Manitoba and Nova Scotia.
+  1. Larger orders originate from provinces like Ontario and West.
   2. Absent detailed data on Abuja-specific orders, further geographic analysis is needed.
 - Action Point: Map customer locations to identify regional demand and optimize logistics.
