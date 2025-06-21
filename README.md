@@ -67,7 +67,7 @@ The analysis of KMS's order data from 2009-2012 reveals valuable insights into c
 ### Appendices
 Data Summary Statistics
 
-Total Orders: [Number]
-Total Sales: [Sum]
-Average Order Quantity: [Value]
-Average Profit per Order: [Value]
+Total Orders: 8400units
+Total Sales: #14,915,600.82
+Average Order Quantity: #25.57
+Average Profit per Order: #181.18
