@@ -50,17 +50,16 @@ The provided dataset includes detailed order records with variables such as:
 #### E. Geographic Insights
 - Orders are distributed across provinces and regions:
   1. Larger orders originate from provinces like Ontario and West.
-  2. Absent detailed data on Abuja-specific orders, further geographic analysis is needed.
+  2. Lower orders are from Nunavut and Northwest Territories .
 - Action Point: Map customer locations to identify regional demand and optimize logistics.
 
 ### Recommendations
-- Data Quality Improvement: Address missing or inconsistent data (e.g., "Order Priority") for accurate analysis.
+- Data Quality Improvement: Address missing or inconsistent data "Order Priority" for accurate analysis.
 - Customer Relationship Management: Develop targeted campaigns for high-value and repeat customers.
 - Pricing & Cost Strategies: Review discount policies and shipping costs to improve profit margins.
-- Inventory Optimization: Align stock levels with demand trends, especially for high-demand categories like Office Supplies and Technology.
+- Inventory Optimization: Align stock levels with demand trends, especially for high-demand categories like Technology and Furniture.
 - Geographic Expansion: Use regional data to identify underserved areas within Abuja, tailoring marketing efforts accordingly.
 - Technology & Automation: Implement BI tools for real-time sales tracking and predictive analytics.
-
 
 ### Conclusions
 The analysis of KMS's order data from 2009-2012 reveals valuable insights into customer behavior, product performance, and profitability. Addressing data gaps and leveraging these insights can support the Abuja division in enhancing sales, improving margins, and delivering better customer service. Strategic focus on high-margin products, customer segmentation, and regional demand will position KMS for sustained growth in Nigeria’s competitive office supplies and furniture market.
