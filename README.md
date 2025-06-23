@@ -56,7 +56,7 @@ The provided dataset includes detailed order records with variables such as:
 - Order Modes: Regular Air and Delivery Truck are prevalent; express air is used for urgent deliveries.
 
 #### D. Profitability Analysis
-- Profitability Variance: Some orders, despite high sales, show negative profits, possibly due to high shipping costs or discounts.
+- Profitability Variance: Some orders, despite high sales, show negative profits, possibly due to high shipping costs discounts or returns.
 - Key Profit Drivers:
   1. Larger orders with higher unit prices tend to yield better profits.
   2. Orders with low discounts 3% tend to be more profitable.
@@ -110,7 +110,7 @@ Insights for Management (KMS)
 
 Based on the information above, the company appears to have made an appropriate decision in allocating shipping methods according to order priority. Since the delivery truck is the most economical but slowest option, it is suitable for orders with lower priority where delivery speed is less critical. Conversely, using Express Air, which is the fastest but most expensive, makes sense for high-priority orders that require quick delivery to meet customer expectations or deadlines.
 
-This strategic approach aligns shipping costs with order importance, ensuring that higher-priority orders receive expedited service while lower-priority orders are shipped more economically. Therefore, the company’s shipping cost expenditures seem justified and appropriate based on the order priorities.
+This strategic approach aligns shipping costs with order importance, ensuring that higher-priority orders receive expedited service while lower-priority orders are shipped more economically. Therefore, the company’s shipping cost expenditures seem justified and appropriate based on the order priorities. However, if high-cost shipping like 'Express Air' is used on orders that are later returned, the company incurs non-recoverable logistics losses. Therefore, optimizing shipping based on product category and customer returns history could reduce exposure.
 
 ### Recommendations
 - Data Quality Improvement: Address missing or inconsistent data "Order Priority" for accurate analysis.
