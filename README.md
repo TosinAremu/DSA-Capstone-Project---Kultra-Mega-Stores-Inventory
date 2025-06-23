@@ -119,6 +119,9 @@ This strategic approach aligns shipping costs with order importance, ensuring th
 - Inventory Optimization: Align stock levels with demand trends, especially for high-demand categories like Technology and Furniture.
 - Geographic Expansion: Use regional data to identify underserved areas within Abuja, tailoring marketing efforts accordingly.
 - Technology & Automation: Implement BI tools for real-time sales tracking and predictive analytics.
+- Track Return Rates by Segment & Product: Analyse historical return data to identify
+  1. Which customer segments most often retun items.
+  2. Which product categories have higher return rates. This helps in revising pricing, improving product descriptions, and reducing returns.
 
 ### Conclusions
 The analysis of KMS's order data from 2009-2012 reveals valuable insights into customer behavior, product performance, and profitability. Addressing data gaps and leveraging these insights can support the Abuja division in enhancing sales, improving margins, and delivering better customer service. Strategic focus on high-margin products, customer segmentation, and regional demand will position KMS for sustained growth in Nigeria’s competitive office supplies and furniture market.
